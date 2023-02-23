@@ -20,7 +20,7 @@ public class JavalinSingleton {
             //write logic here
             ctx.status(404);
         });
- 
+  
         return app;
     }
     
