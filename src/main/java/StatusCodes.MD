@@ -15,7 +15,7 @@ There are 5 categories of status code responses:
 
 ```java
 app.get("/request-was-accepted", ctx -> {
-    ctx.status(202);
+    ctx.status(202); 
 });
 ```
 
